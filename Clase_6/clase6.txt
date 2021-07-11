@@ -1,0 +1,11 @@
+Preguntas Clase 6
+
+a. ¿Quién inventó el sistema de control de version Git y por qué?
+El creador de esta herramienta es Linus Torvalds y su equipo de Linux. Esto a raiz de que la herramienta que utilizaban antes, "Bitkeeper", dejo de ser gratuita. Esto incentivo a la creacion de su propia herramienta.
+
+b. ¿A quién pertenece actualmente Github y por qué?
+Pertenece a Microsoft, porque la considera como la plataforma de desarrollo de software mas importante del mundo.
+Quizás la clave del éxito que la llevo a la mira de Microsoft sea la universalidad de sus dos pilares fundamentales, que son permitir crear versiones diferentes de un mismo proyecto para que cada uno lo adapte a sus necesidades y que estas versiones puedan integrarse después al proyecto principal. Ellos hacen que GitHub sea la plataforma preferida para el trabajo colaborativo sin importar cuál sea el proyecto. Además, puedes recibir la ayuda de quienes les interese lo que estás haciendo, dándote siempre un valioso feedback o colaborando contigo.
+
+c.¿Hay otra forma que no sea la terminal para trabajar con Github?
+Se puede trabajar a traves de otros software como VSCode.
